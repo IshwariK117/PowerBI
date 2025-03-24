@@ -1,3 +1,3 @@
 # PowerBI
 
-<img src="PowerBi_Visualization" alt="Power BI Visualization" width="300" height="200">
+<img src="PowerBi_Visualization" alt="Power BI Visualization" width="500" height="200">
